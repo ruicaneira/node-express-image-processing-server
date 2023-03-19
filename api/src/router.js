@@ -1,5 +1,5 @@
-const { Router } = required('express');
-const multer = required('multer');
+const { Router } = require('express');
+const multer = require('multer');
 
 const router = Router();
 
